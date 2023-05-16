@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gino-Freud-Hobayan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Google Data Analytics (Ceritification) and a little bit of Statistics
+- 👀 I’m interested in ... Data Analytics and Statistics
+- 🌱 I’m currently learning Google Data Analytics (Certification) and a little bit of Statistics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://www.linkedin.com/in/ginofreudhobayan/
 
