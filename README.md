@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data Analytics and Statistics
 - 🌱 I’m currently learning Google Data Analytics, Python (CodeMNL) and a little bit of Statistics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... https://www.linkedin.com/in/ginofreudhobayan/
+- 📫 How to reach me ... https://www.linkedin.com/in/ginofreudhobayan/ or https://www.facebook.com/gino.hobayan
 - 💼 Link to my Data Science Portfolio: 
 
 
