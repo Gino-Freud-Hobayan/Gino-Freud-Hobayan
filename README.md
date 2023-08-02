@@ -1,9 +1,26 @@
-- 👋 Hi, I’m @Gino-Freud-Hobayan
-- 👀 I’m interested in ... Data Analytics and Statistics
-- 🌱 I’m currently learning Google Data Analytics, Python (CodeMNL) and a little bit of Statistics
+## 👋 Hi, I’m @Gino-Freud-Hobayan
+
+- 👀 Interests:
+  - **Data Analytics**
+  - **Statistics**
+  - **Weightlifting and Powerlifting**
+  - **Film and Scriptwriting**
+
+<br>
+
+- 🌱 I’m currently learning **Data Analytics.**
+
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... https://www.linkedin.com/in/ginofreudhobayan/ or https://www.facebook.com/gino.hobayan
-- 💼 Link to my Data Science Portfolio: 
+
+<br>
+
+- 📫 How to reach me ...
+  - https://www.linkedin.com/in/ginofreudhobayan/
+  - https://www.facebook.com/gino.hobayan
+<br>
+
+- 💼 Link to my Data Science Portfolio:
+  -  TBA
 
 
 
