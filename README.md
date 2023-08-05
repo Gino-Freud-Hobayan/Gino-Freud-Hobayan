@@ -8,7 +8,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Data Analytics.**
+- 🌱 I’m currently **creating a life I don't need to escape from.**
 
 - 💞️ I’m looking to collaborate on ...
 
