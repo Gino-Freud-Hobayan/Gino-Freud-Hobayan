@@ -20,7 +20,7 @@
 <br>
 
 - 💼 Link to my Data Science Portfolio:
-  -  TBA
+  -  https://www.datascienceportfol.io/ginohobayan
 
 
 
