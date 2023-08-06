@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @Gino-Freud-Hobayan
 
 - 👀 Interests:
-  - **Data Analytics, Statistics, and AI**
+  - **Data Analytics, Statistics, and Generative AI**
   - **Weightlifting and Powerlifting**
   - **Mangas/Manhwas**
   - **Film and Scriptwriting**
