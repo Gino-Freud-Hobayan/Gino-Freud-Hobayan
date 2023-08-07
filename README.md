@@ -12,8 +12,6 @@
 
 - 💞️ I’m looking to collaborate on ...
 
-<br>
-
 - 📫 How to reach me ...
   - https://www.linkedin.com/in/ginofreudhobayan/
   - https://www.facebook.com/gino.hobayan
