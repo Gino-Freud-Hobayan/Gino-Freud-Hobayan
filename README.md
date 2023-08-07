@@ -12,9 +12,10 @@
 
 - 💞️ I’m looking to collaborate on ...
 
-- 📫 How to reach me ...
+- 📫 How to reach me:
   - https://www.linkedin.com/in/ginofreudhobayan/
   - https://www.facebook.com/gino.hobayan
+
 <br>
 
 - 💼 Link to my Data Science Portfolio:
