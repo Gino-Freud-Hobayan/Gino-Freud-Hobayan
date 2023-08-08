@@ -12,13 +12,9 @@
 
 - 💞️ I’m looking to collaborate on ...
 
-- 📫 How to reach me:
-  - https://linktr.ee/ginohobayan
+- 📫 How to reach me: https://linktr.ee/ginohobayan
 
-<br>
-
-- 💼 Link to my Data Science Portfolio:
-  -  https://www.datascienceportfol.io/ginohobayan
+- 💼 Link to my Data Science Portfolio: https://www.datascienceportfol.io/ginohobayan
 
 
 
