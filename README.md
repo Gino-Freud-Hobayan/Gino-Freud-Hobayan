@@ -13,8 +13,7 @@
 - 💞️ I’m looking to collaborate on ...
 
 - 📫 How to reach me:
-  - https://www.linkedin.com/in/ginofreudhobayan/
-  - https://www.facebook.com/gino.hobayan
+  - https://linktr.ee/ginohobayan
 
 <br>
 
