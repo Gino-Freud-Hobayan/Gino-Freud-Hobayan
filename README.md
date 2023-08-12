@@ -6,7 +6,6 @@
   - **Mangas/Manhwas**
   - **Film and Scriptwriting**
 
-<br>
 
 - 🌱 I’m currently...
 
