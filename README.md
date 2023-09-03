@@ -8,9 +8,9 @@
 
 <br>
 
-- 📫 How to reach me: https://linktr.ee/ginohobayan
+### - 📫 How to reach me: https://linktr.ee/ginohobayan
 
-- 💼 Link to my Data Science Portfolio: https://www.datascienceportfol.io/ginohobayan
+### - 💼 Link to my Data Science Portfolio: https://www.datascienceportfol.io/ginohobayan
 
 
 
