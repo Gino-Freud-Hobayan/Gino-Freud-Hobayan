@@ -10,7 +10,7 @@
 
 ### - 📫 How to reach me: https://linktr.ee/ginohobayan
 
-### - 💼 Link to my Data Science Portfolio: https://www.datascienceportfol.io/ginohobayan
+### - 💼 Data Science Portfolio: https://www.datascienceportfol.io/ginohobayan
 
 
 
