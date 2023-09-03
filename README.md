@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Gino Freud D. Hobayan
+## 👋 Hi, I’m Gino Hobayan
 
 - 👀 Interests:
   - **Data Analytics, Statistics, and Generative AI**
