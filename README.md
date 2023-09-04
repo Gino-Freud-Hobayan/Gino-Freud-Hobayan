@@ -12,6 +12,8 @@
 
 ### - 💼 Data Science Portfolio: https://www.datascienceportfol.io/ginohobayan
 
+### - 📊 SQL Capstone Project: [10-minute Presentation on YouTube](https://youtu.be/DYzXV9tT7Ys?si=LA3mt1gthwDurzIW)
+
 
 
 <!---
