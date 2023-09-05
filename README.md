@@ -14,7 +14,7 @@
 
 ### 📊 SQL Capstone Project: [10-minute Presentation on YouTube](https://youtu.be/DYzXV9tT7Ys?si=LA3mt1gthwDurzIW)
 
-<img width="650" alt="SQL Capstone Proj - Title card w my face" src="https://github.com/Gino-Freud-Hobayan/Gino-Freud-Hobayan/assets/117270964/649f1637-2b43-4bb9-8075-b70687fee144">
+<img width="600" alt="SQL Capstone Proj - Title card w my face" src="https://github.com/Gino-Freud-Hobayan/Gino-Freud-Hobayan/assets/117270964/649f1637-2b43-4bb9-8075-b70687fee144">
 
 
 
