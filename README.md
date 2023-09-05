@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Gino Hobayan
 
-## 👀 Interests:
+### 👀 Interests:
 ###  - **Data Analytics, Statistics, and Generative AI**
 ###  - **Weightlifting and Powerlifting**
 ###  - **Mangas/Manhwas**
