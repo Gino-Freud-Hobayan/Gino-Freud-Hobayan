@@ -10,13 +10,13 @@
 
 ### 📫 How to reach me: https://linktr.ee/ginohobayan
 
-### 📊 Tableau Dashboards and visualizations: https://public.tableau.com/app/profile/gino.freud.hobayan
+### 📊 Tableau Dashboards: https://public.tableau.com/app/profile/gino.freud.hobayan
 
 ### 💼 Data Analyst Portfolio: https://www.datascienceportfol.io/ginohobayan
 
 <br>
 
-### 📊 SQL Capstone Project: [Instacart 10-minute Presentation on YouTube](https://youtu.be/DYzXV9tT7Ys?si=LA3mt1gthwDurzIW)
+### SQL Capstone Project: [Instacart 10-minute Presentation on YouTube](https://youtu.be/DYzXV9tT7Ys?si=LA3mt1gthwDurzIW)
 
 <img width="330" alt="SQL Capstone Proj - Title card w my face" src="https://github.com/Gino-Freud-Hobayan/Gino-Freud-Hobayan/assets/117270964/649f1637-2b43-4bb9-8075-b70687fee144">
 
