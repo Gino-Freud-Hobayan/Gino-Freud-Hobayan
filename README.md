@@ -10,17 +10,17 @@
 
 ### 📫 How to reach me: https://linktr.ee/ginohobayan
 
+### 📊 Tableau Dashboards and visualizations: https://public.tableau.com/app/profile/gino.freud.hobayan
+
 ### 💼 Data Analyst Portfolio: https://www.datascienceportfol.io/ginohobayan
 
 <br>
 
 ### 📊 SQL Capstone Project: [Instacart 10-minute Presentation on YouTube](https://youtu.be/DYzXV9tT7Ys?si=LA3mt1gthwDurzIW)
 
-### 📊 Tableau link for the Dashboard: [Instacart dataset analysis Dashboard](https://public.tableau.com/app/profile/gino.freud.hobayan/viz/InstacartdatasetanalysisbyGINOFREUDD_HOBAYAN/Dashboard1)
+<img width="330" alt="SQL Capstone Proj - Title card w my face" src="https://github.com/Gino-Freud-Hobayan/Gino-Freud-Hobayan/assets/117270964/649f1637-2b43-4bb9-8075-b70687fee144">
 
-<img width="380" alt="SQL Capstone Proj - Title card w my face" src="https://github.com/Gino-Freud-Hobayan/Gino-Freud-Hobayan/assets/117270964/649f1637-2b43-4bb9-8075-b70687fee144">
-
-<img width="380" alt="Instacart - Tableau Viz" src="https://github.com/Gino-Freud-Hobayan/Gino-Freud-Hobayan/assets/117270964/a2664240-cbf0-459d-b969-a11a7f952a5a">
+<img width="330" alt="Instacart - Tableau Viz" src="https://github.com/Gino-Freud-Hobayan/Gino-Freud-Hobayan/assets/117270964/a2664240-cbf0-459d-b969-a11a7f952a5a">
 
 
 
