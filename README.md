@@ -12,7 +12,7 @@
 
 ### 📊 Tableau Dashboards: https://public.tableau.com/app/profile/gino.freud.hobayan
 
-### 💼 Data Analyst Portfolio: https://www.datascienceportfol.io/ginohobayan
+### 💼 Data Analyst Portfolio: https://gino-freud-hobayan.github.io/
 
 <br>
 
