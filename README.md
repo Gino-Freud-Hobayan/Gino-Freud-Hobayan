@@ -8,13 +8,12 @@
 
 <br>
 
-### 📫 How to reach me: https://linktr.ee/ginohobayan
-
 ### 📊 Tableau Dashboards: https://public.tableau.com/app/profile/gino.freud.hobayan
 
 ### 💼 Data Analyst Portfolio: https://gino-freud-hobayan.github.io/
 
-<img width="450" alt="Portfolio thumbnail" src="https://github.com/Gino-Freud-Hobayan/Gino-Freud-Hobayan/assets/117270964/574f4ec2-6042-43e8-996b-9b41467e0513">
+<img width="450" alt="Portfolio thumbnail!!!" src="https://github.com/Gino-Freud-Hobayan/Gino-Freud-Hobayan/assets/117270964/2c9219bf-904d-4a62-8339-f8be1841188d">
+
 
 
 <br>
