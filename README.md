@@ -4,7 +4,7 @@
  - **Data Analytics, Statistics, and Generative AI**
  - **Weightlifting and Powerlifting**
  - **Mangas/Manhwas**
- - **Film and Scriptwriting**
+ - **Writing**
 
 <br>
 
