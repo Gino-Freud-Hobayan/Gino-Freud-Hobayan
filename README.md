@@ -2,7 +2,7 @@
 
  **👀 Interests:**
  - **Data Analytics, Statistics, and Generative AI**
- - **Weightlifting and Powerlifting**
+ - **Weightlifting and Running**
  - **Mangas/Manhwas**
  - **Writing**
 
